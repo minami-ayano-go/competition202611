@@ -431,6 +431,9 @@ html.nav-open body{
   .price-compare{flex-direction:column;align-items:flex-start;gap:.4rem}
   .price-compare .price-arrow::before{content:"↓"}
 }
+@media(max-width:500px){
+  .hdr-entry--apply{display:none}
+}
 @media(max-width:380px){
   .brand-text{display:none}
 }
