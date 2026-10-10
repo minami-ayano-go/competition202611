@@ -187,8 +187,6 @@ html.nav-open body{
   position:relative;z-index:2;flex:1;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;
   width:100%;max-width:1000px;margin:0 auto;padding:112px var(--pad) 72px;
 }
-.hero-edition{font-family:var(--en);font-weight:700;font-size:1rem;letter-spacing:.3em;text-transform:uppercase;color:var(--gold-dim)}
-.hero-edition span{font-family:var(--mincho);font-weight:600;font-size:.82rem;letter-spacing:.14em;color:var(--text-muted)}
 .hero-emblem{width:clamp(148px,24vw,216px);margin:1.4rem auto 0}
 .hero-title{margin-top:1.6rem}
 .hero-title .en{display:block;font-family:var(--en);font-weight:700;font-size:clamp(1.5rem,5vw,3rem);letter-spacing:.18em;text-transform:uppercase;color:var(--gold);text-shadow:var(--glow);line-height:1.15}
